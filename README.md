@@ -1,6 +1,6 @@
 # TypicodeAPI Mini Group Project
 
-## NOTE: Full commit history for this project can be found at https://github.com/sarkerJ/TypicodeAPI_MiniGroupProject
+### NOTE: Full commit history and project board for this project can be found at https://github.com/sarkerJ/TypicodeAPI_MiniGroupProject
 
 ## Project Goal
 
